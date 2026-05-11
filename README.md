@@ -4,7 +4,7 @@
 Analyze user behavior through the sales funnel and measure conversion rates and revenue performance.
 
 ## Dataset
-- Source: simulated / e-commerce event tracking data
+- Source: e-commerce event tracking data
 - Columns: user_id, event_type, event_date, traffic_source, amount
 
 ## Analysis Performed
